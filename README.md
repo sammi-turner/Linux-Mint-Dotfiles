@@ -20,10 +20,10 @@ brave
 
 <br>
 
-Install the following at the command line
+Install git, ffmpeg and yt-dlp with apt
 
 ```
-git
+sudo apt install git ffmpeg yt-dlp
 ```
 
 <br>
@@ -48,14 +48,6 @@ Install Nim with curl
 
 ```
 curl https://nim-lang.org/choosenim/init.sh -sSf | sh
-```
-
-<br>
-
-Install ffmpeg and yt-dlp with apt
-
-```
-sudo apt install ffmpeg yt-dlp
 ```
 
 <br>
