@@ -24,7 +24,7 @@ brave
 Install git, ffmpeg and yt-dlp with apt
 
 ```
-sudo apt install git ffmpeg yt-dlp
+sudo apt install git ffmpeg
 ```
 
 <br>
