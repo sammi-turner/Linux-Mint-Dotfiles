@@ -13,6 +13,7 @@ My dotfiles for Linux Mint.
 Install the following packages with software manager
 
 ```
+media-downloader
 wezterm
 neovim
 brave
