@@ -44,8 +44,3 @@ Open neovim and use the command
 ```
 
 <br>
-
-curl https://nim-lang.org/choosenim/init.sh -sSf | sh
-```
-
-<br>
