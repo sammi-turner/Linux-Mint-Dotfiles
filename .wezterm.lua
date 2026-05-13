@@ -6,6 +6,7 @@ return {
   font_size = 16,
   color_scheme = 'Catppuccin Mocha',
   hide_tab_bar_if_only_one_tab = true,
+  enable_scroll_bar = true,
   default_cursor_style = "BlinkingBar",
   cursor_blink_rate = 500,
   window_padding = {
